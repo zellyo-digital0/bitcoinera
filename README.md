@@ -1,4 +1,2 @@
-# bitcoinera
+# https://zellyo-digital0.github.io/bitcoinera
 
-Visit: https://faruq05.github.io/bitcoinera/
-# bitcoinera
